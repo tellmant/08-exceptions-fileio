@@ -1,5 +1,4 @@
 <h1>Python Labs</h1>
-<hr>
 <b>08-exceptions-fileio</b>
 <table>
 <tr>
