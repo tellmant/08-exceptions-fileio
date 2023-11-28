@@ -29,7 +29,7 @@ Modify random_walk() so that if the user raises a KeyboardInterrupt by pressing 
 <td>Add the following methods to the ContentFilter class for writing the contents of the original file to new files. Each method should accept the name of a file to write to and a keyword argument mode that specifies the file access mode, defaulting to 'w'. If mode is not 'w', 'x', or 'a', raise a ValueError with an informative message.</td>
 </tr>
 </table>
-<br><br>
+<br>
 <b>08-objectoriented</b>
 <table>
 <tr>
