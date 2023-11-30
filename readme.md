@@ -159,6 +159,7 @@ Create 3 plots that compare variables or universities. These plots should answer
 </td>
 </tr>
 </table>
+<i style="color: rgb(128,128,128)">this lab contains additional readme.md in 08-unittesting directory</i>
 <br><br>
 <hr>
 <i>source: ACME</i><br>
