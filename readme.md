@@ -123,6 +123,43 @@ After you have written unit tests for the functions in Problem 5, implement the 
 </table>
 <i style="color: rgb(128,128,128)">this lab contains additional readme.md in 08-unittesting directory</i>
 <br><br>
+<b>09-pandas2</b>
+<table>
+<tr>
+<td><b>#</b></td>
+<td><b>Problems</b></td>
+</tr>
+<td>
+1</td>
+<td>
+Create 3 visualizations of the crime data set. One of the visualizations should be a histogram. The visualizations should be clearly labelled and easy to understand.
+</td>
+<tr>
+<td>2</td>
+<td>
+Use visualizations to identify if trends exists between Forcible Rape and
+<br>1. Violent
+<br>2. Burglary
+<br>3. Aggravated Assault<br>
+Plot each visualization. Return a tuple of booleans. Each entry should identify whether that element correlates or not.
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+Use crime_data.csv to display the following distributions.
+<br>1. The distributions of Burglary, Violent, and Vehicle Theft across all crimes 
+<br>2. The distributions of Vehicle Thefts by the number of Robberies
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+Create 3 plots that compare variables or universities. These plots should answer questions about the data, e.g. what is the distribution of graduation rates or do schools with lower student to faculty ratios have higher tuition costs. These three plots should be easy to understand and have clear variable names and citations.
+</td>
+</tr>
+</table>
+<br><br>
 <hr>
 <i>source: ACME</i><br>
 <i>credits: Maksym Petukhov, PMA-23, 2023</i>
