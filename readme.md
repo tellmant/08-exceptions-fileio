@@ -77,6 +77,51 @@ Write a ComplexNumber class from scratch.
 </td>
 </tr>
 </table>
+<br>
+<b>08-unittesting</b>
+<table>
+<tr>
+<td><b>#</b></td>
+<td><b>Problems</b></td>
+</tr>
+<td>
+1</td>
+<td>
+The following function contains a subtle but important error.<br>
+Write a unit test for this function, including test cases that you suspect might uncover the error(what are the edge cases for this function?). Use pytest to run your unit test and discover atest case that fails, then use this information to correct the function.
+</td>
+<tr>
+<td>2</td>
+<td>
+Withpytest-cov installed, check your coverage of smallest_factor()fromProblem 1. Write additional test cases if necessary to get complete coverage. Then, write a comprehensive unit test for the following (correctly written) function.
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+Write a comprehensive unit test for the following function. Make sure that each exception is raised properly by explicitly checking the exception message. Use pytest-cov and its cov-report tool to confirm that you have full coverage for this function.
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+Add test cases to the unit tests provided above to get full coverage for the__init__(),__str__(),__float__(), and__eq__()methods.  You may modify the fix-ture function if it helps. Also add unit tests for the magic methods__add__(),__sub__(),__mul__(), and__truediv__(). Verify that you have full coverage with pytest-cov.Additionally,two of the Fraction class’s methods are implemented incorrectly. Use your tests to find the issues, then correct the methods so that your tests pass.
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+Write unit tests for these functions, but do not implement them yet. Focus on what the functions should do rather than on how they will be implemented.(Hint: if three cards form a set, then the first digits of the cards are either all the same or all different. Then the sums of these digits can only be 0, 3, or 6. Thus, a group of cards forms a set only if for each set of digits—first digits, second digits, etc.—the sum is a multiple of 3.)
+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+After you have written unit tests for the functions in Problem 5, implement the actual functions. If needed, add additional test cases to get full coverage.(Hint: The combinations()function from the standard library module iter tools may be useful in implementing count_sets().)
+</td>
+</tr>
+</table>
+<i style="color: rgb(128,128,128)">this lab contains additional readme.md in 08-unittesting directory</i>
 <br><br>
 <hr>
 <i>source: ACME</i><br>
